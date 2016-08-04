@@ -1,4 +1,4 @@
-# 99 bottles of beer on the wall. program to print Lyrics
+# 99 bottles of beer on the wall. program to print Lyrics to that beloved classic "99 Bottles of Beer on the Wall"
 
 count = 99
 while count >= 0
